@@ -1,0 +1,7 @@
+22	40	40	16	13	20
+Num. de Inventario	Título	Autor	Localización	Signatura	Está Disponible?
+17	40	40	29
+Num. de Socio	Nombre	Dirección	Cant. de Libros Prestados
+30	17	22	13
+Fecha y Hora	Num. de Socio	Num. de Inventario	Devuelto?
+4
