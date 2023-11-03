@@ -7,7 +7,6 @@ import dominio.socio.ControladorSocio;
 import dominio.socio.TablaSocio;
 
 import java.util.NoSuchElementException;
-import java.util.Objects;
 import java.util.Scanner;
 
 public class Main {
